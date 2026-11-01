@@ -59,3 +59,10 @@ Keep it short. Capture the *why*, not just the *what*.
 **Why:** No duplicate business notes; the overview already has backlinks.
 **Alternatives considered:** A fresh `about-sahas-ai.md` (rejected: duplication).
 **Owner:** Yogesh
+
+## 2026-11-01: GHL is the CRM and automation hub; API reference saved
+
+**Decision:** Use GoHighLevel for lead management, pipeline and automations, accessed via the v2 REST API with a sub-account **Private Integration Token** (read-only scopes first). `references/ghl-api.md` holds auth, headers, rate limits, safety rules, curl recipes, and a 576-endpoint catalog generated from GHL's official OpenAPI repo by `scripts/build-ghl-api-catalog.py`.
+**Why:** Researched once, reused forever; fewer tokens than the MCP route; least privilege.
+**Alternatives considered:** GHL MCP server (more tokens, broader scope); ClickUp for tasks (not needed while solo).
+**Owner:** Yogesh
