@@ -133,7 +133,7 @@ This OS runs **locally only** while the session uses an employer-org Claude acco
 - No cloud routines, remote sessions, `/schedule`, Artifacts, or org connectors (Google Docs/Drive
   connector, Atlassian, Pulse, etc.). Cadence = local scheduled tasks or n8n.
 - No sending, posting or emailing anything without Yogesh saying so in chat.
-- Only pre-approved git remote: the vault's private GitHub repo. `AI OS/` has no remote yet; ask before creating one.
+- Pre-approved git remotes (private, personal account): the vault repo, and `github.com/yogeshcodeshare/sahas-ai-os` for this folder. Commit and push here after meaningful changes; never push `.env`, `audits/`, `brainstorms/` or `apps/`.
 
 ## Keeping this file healthy
 Keep it under ~150 lines: routes and rules only, no business facts. Mirror every change into `AGENTS.md`. When a new folder, tool or skill
