@@ -60,7 +60,7 @@ To add knowledge to the vault, use the user-level `ingest-sahasai-obsidian` skil
 _Filled by `/onboard` on 2026-11-01. Re-run `/onboard` to refresh._
 
 - **Name:** Yogesh Mohite, founder of Sahas AI (job + night internship; time is the constraint)
-- **Top priority:** sales and marketing, Nov 2026 – Jan 2027: 1–2 paid clients (first paid pilot by 30 Nov). Open: first-3-client pricing; which niche leads (S1–S4 vs car dealerships).
+- **Top priority:** sales and marketing, Nov 2026 – Jan 2027: 1–2 paid clients (first paid pilot by 30 Nov). Demo niche: car dealerships. Next: design first-three-client offers and pricing.
 - **Voice:** direct, practical, Indian spoken English; explains the why; thinks in lists. Clean it up for clients.
 - **Connections:** vault (local) only; no client channels or payments live yet. Full registry in `connections.md`; run `/audit` for freshness.
 
