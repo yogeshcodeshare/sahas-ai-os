@@ -1,0 +1,6 @@
+interface:
+  display_name: "Sahas AIOS Link"
+  short_description: "Link a source into the right AIOS route"
+  default_prompt: "Use $link to add this source to my Sahas AI OS routing."
+policy:
+  allow_implicit_invocation: false
