@@ -6,12 +6,12 @@ wired. `/audit` checks it for domain coverage and freshness. Never put key value
 
 | # | Domain | Tool | Account | Mechanism | Scope | Auth | Last checked |
 |---|---|---|---|---|---|---|---|
-| 1 | Revenue / financials | _filled by /onboard_ | | not yet connected | read-only | — | — |
-| 2 | Customer interactions / CRM | _e.g. GHL, WACRM_ | | not yet connected | read | — | — |
+| 1 | Revenue / financials | n/a yet: business current account to open when pitching starts; invoicing tool TBD | | not yet connected | read-only | — | — |
+| 2 | Customer interactions / CRM | GoHighLevel (lead management, setup planned this quarter) | Sahas GHL location | not yet connected | read | — | — |
 | 3 | Calendar | Google Calendar | hello@sahasai.in | not yet connected | read | — | — |
-| 4 | Communication | Zoho Mail, WhatsApp | hello@sahasai.in | not yet connected | read-only first | — | — |
-| 5 | Project / task tracking | _filled by /onboard_ | | not yet connected | | — | — |
-| 6 | Meeting intelligence | _filled by /onboard_ | | not yet connected | read | — | — |
+| 4 | Communication | Zoho Mail; WhatsApp API (Veblika); social DMs once channels launch. No client comms live yet | hello@sahasai.in | not yet connected | read-only first | — | — |
+| 5 | Project / task tracking | Night-before to-do list + 15-day reviews (vault); GHL tasks later | | not yet connected | read | — | — |
+| 6 | Meeting intelligence | none yet (no client meetings); AI-chat exports as PDFs in workspace | | not yet connected | read | — | — |
 | 7 | Knowledge / files | Obsidian vault (+ Google Drive) | local / hello@sahasai.in | local filesystem | read+write | n/a | 2026-11-01 |
 
 **Mechanism options:** `script` (a script hitting an API, in `scripts/`), `key+ref` (`.env` key +

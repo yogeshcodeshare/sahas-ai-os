@@ -27,7 +27,7 @@ Vault root: `C:\Yogesh - personal\Claude\Cluade Projects\Ai Automation\SahasAI_A
 | Starter kit | Sahas AI destination |
 |---|---|
 | `context/about-me.md` | vault `01_Agency/about-yogesh.md` |
-| `context/about-business.md` | vault `01_Agency/about-sahas-ai.md` |
+| `context/about-business.md` | vault `01_Agency/sahas-ai-overview.md` (existing note; append dated updates) |
 | `context/priorities.md` | vault `01_Agency/priorities.md` |
 | `references/voice.md` | vault `01_Agency/voice-samples.md` |
 | `connections.md` | `AI OS/connections.md` (operator layer) |
@@ -99,7 +99,7 @@ Once the intake is complete, write all of these in a single pass, with no multi-
 
 1. **`01_Agency/about-yogesh.md`**: from Q1 (identity, role) + Q7 (`top_pain`). One short paragraph each,
    plus a "Working with me" line if he stated preferences.
-2. **`01_Agency/about-sahas-ai.md`**: from Q1 (offer, ICP) + Q4 (revenue model, tool names only).
+2. **`01_Agency/sahas-ai-overview.md`** (existing note, append a dated update): from Q1 (offer, ICP) + Q4 (revenue model, tool names only).
 3. **`01_Agency/priorities.md`**: from Q3. Numbered list, one line each, with deadline and measure.
 4. **`01_Agency/voice-samples.md`**: from Q2. Samples **verbatim**, each with channel, language and date,
    under a header: "Match this register when drafting. Never send anything in my voice to a client or

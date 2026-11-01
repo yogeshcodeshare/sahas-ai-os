@@ -52,3 +52,10 @@ Keep it short. Capture the *why*, not just the *what*.
 **Why:** Tool-agnostic (Claude Code or Codex) and evidence-based audits from day one.
 **Alternatives considered:** A trimmed three-skill version (first draft, superseded).
 **Owner:** Yogesh
+
+## 2026-11-01: Onboarded into existing vault notes
+
+**Decision:** `/onboard` reused existing vault notes instead of creating `about-sahas-ai.md`: business context is appended to `01_Agency/sahas-ai-overview.md`; new notes `about-yogesh.md`, `priorities.md`, `voice-samples.md`. Routes in both manuals, `context/` and the onboard skill now point there.
+**Why:** No duplicate business notes; the overview already has backlinks.
+**Alternatives considered:** A fresh `about-sahas-ai.md` (rejected: duplication).
+**Owner:** Yogesh

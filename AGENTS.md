@@ -31,7 +31,7 @@ pull before reading, push after writing, never delete user notes).
 Which source answers what:
 | Need | Source |
 |---|---|
-| What Sahas AI sells, ICP, pricing model | vault `01_Agency/about-sahas-ai.md` |
+| What Sahas AI sells, ICP, pricing model | vault `01_Agency/sahas-ai-overview.md` (see its latest dated update) |
 | Yogesh's role, top pain, how he likes to work | vault `01_Agency/about-yogesh.md` |
 | This quarter's priorities | vault `01_Agency/priorities.md` |
 | Tone when drafting in his voice | vault `01_Agency/voice-samples.md` |
@@ -57,16 +57,16 @@ Use these for working files; durable knowledge about them belongs in the vault.
 To add knowledge to the vault, use the user-level `ingest-sahasai-obsidian` skill.
 
 ## Context summary
-_Filled by `/onboard`. Name, top priority, one-line voice summary, connection summary._
+_Filled by `/onboard` on 2026-11-01. Re-run `/onboard` to refresh._
 
-- **Name:** Yogesh Mohite, founder of Sahas AI
-- **Top priority:** _not set, run `/onboard`_
-- **Voice:** _not set_
-- **Connections:** vault (local) only. Full registry in `connections.md`; run `/audit` for freshness.
+- **Name:** Yogesh Mohite, founder of Sahas AI (job + night internship; time is the constraint)
+- **Top priority:** sales and marketing, Nov 2026 – Jan 2027: 1–2 paid clients (first paid pilot by 30 Nov). Open: first-3-client pricing; which niche leads (S1–S4 vs car dealerships).
+- **Voice:** direct, practical, Indian spoken English; explains the why; thinks in lists. Clean it up for clients.
+- **Connections:** vault (local) only; no client channels or payments live yet. Full registry in `connections.md`; run `/audit` for freshness.
 
 ## Voice
-Match the register in vault `01_Agency/voice-samples.md` (filled by `/onboard`). Until then: casual but
-professional, short sentences, bullets over paragraphs. Match the channel's language (English / Hinglish)
+Match the register in vault `01_Agency/voice-samples.md` (direct, practical, warm; grammatically clean
+for clients): casual but professional, short sentences, bullets over paragraphs. Match the channel's language (English / Hinglish)
 to the samples. **Never send or publish anything in Yogesh's voice** (client WhatsApp/email, LinkedIn,
 Instagram, proposals) without showing him a draft first.
 
