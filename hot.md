@@ -23,5 +23,6 @@ Claude skills for content + portfolio; GHL lead management.
 ## Open loops
 - Voice sample 2: add after the first real outreach message (no client contact yet).
 - Ingest `sahas automation plan.pdf` and the Niche Research Report (.docx) into the vault.
-- Day 2: wire one connection. Day 7: `/audit`.
+- GHL: sub-account paused by BizAutomation (2026-11-01). Restore with their support, then create `.env` (token + location ID) and run the read-only test in `references/ghl-api.md`.
+- Day 7: `/audit`.
 - Long-term: move Sahas AI work to a personal Claude subscription.

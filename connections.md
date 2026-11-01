@@ -7,7 +7,7 @@ wired. `/audit` checks it for domain coverage and freshness. Never put key value
 | # | Domain | Tool | Account | Mechanism | Scope | Auth | Last checked |
 |---|---|---|---|---|---|---|---|
 | 1 | Revenue / financials | n/a yet: business current account to open when pitching starts; invoicing tool TBD | | not yet connected | read-only | — | — |
-| 2 | Customer interactions / CRM | GoHighLevel: leads, pipeline, contacts, conversations, calendar, workflows. API guide: `references/ghl-api.md` | Sahas GHL sub-account | key+ref (Private Integration Token; ref ready, token not added) | read-only first | — | — |
+| 2 | Customer interactions / CRM | GoHighLevel: leads, pipeline, contacts, conversations, calendar, workflows. API guide: `references/ghl-api.md` | Sahas GHL sub-account | key+ref (Private Integration Token; ref ready, token not added) | read-only first | — | 2026-11-01: blocked, sub-account paused by BizAutomation (reseller); retry after restore |
 | 3 | Calendar | Google Calendar | hello@sahasai.in | not yet connected | read | — | — |
 | 4 | Communication | Zoho Mail; WhatsApp API (Veblika); social DMs once channels launch. No client comms live yet | hello@sahasai.in | not yet connected | read-only first | — | — |
 | 5 | Project / task tracking | Night-before to-do list + 15-day reviews (vault); GHL tasks later | | not yet connected | read | — | — |
